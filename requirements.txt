@@ -9,3 +9,6 @@ numpy
 ## Need to also run python -m nltk.downloader punkt
 nltk
 pretty_midi
+
+# Recommend using pyyaml if experiencing problems with yaml. 
+
