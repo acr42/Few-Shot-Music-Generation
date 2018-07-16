@@ -13,7 +13,7 @@ class LSTMBaseline2(TFModel):
     """
 
     def __init__(self, config):
-        super(LSTMBaseline, self).__init__(config)
+        super(LSTMBaseline2, self).__init__(config)
 
     def _define_placedholders(self):
         # Add start word that starts every song
